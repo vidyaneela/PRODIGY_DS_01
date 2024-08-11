@@ -17,3 +17,5 @@ Use seaborn to create a histogram that shows how the passengers' ages are spread
 
 ## Output:
 Bar Chart: A visual representation showing the count of male and female passengers on the Titanic. Histogram: A visual representation showing how the ages of the passengers are distributed, including a smooth curve to highlight the pattern.
+
+## Task Developed by Vidya Neela M
